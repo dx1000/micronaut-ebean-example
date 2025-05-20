@@ -45,7 +45,7 @@ Kotlin é uma linguagem interopativel com Java com features que não existem no 
 
 
 
-## Detalhes técnicos
+## Detalhes técnicos FROM REMOTE
 
 ### multitenancy
 
